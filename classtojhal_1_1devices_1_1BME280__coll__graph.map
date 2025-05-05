@@ -1,0 +1,13 @@
+<map id="tojhal::devices::BME280" name="tojhal::devices::BME280">
+<area shape="rect" id="Node000001" title="Bosch BME280 sensor interface." alt="" coords="35,949,188,1131"/>
+<area shape="rect" id="Node000002" href="$classtojhal_1_1devices_1_1EnvironmentalSensor.html" title=" " alt="" coords="5,772,217,900"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,915,114,949,108,949,108,915"/>
+<area shape="rect" id="Node000003" href="$classtojhal_1_1devices_1_1Device.html" title=" " alt="" coords="26,637,196,723"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,738,114,772,108,772,108,738"/>
+<area shape="rect" id="Node000004" href="$classtojhal_1_1comms__interfaces_1_1I2C.html" title="I2C communication interface." alt="" coords="18,360,204,573"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,573,114,620,108,620,108,573"/>
+<area shape="rect" id="Node000005" href="$classtojhal_1_1comms__interfaces_1_1RegisterInterface.html" title="Communication interface over registers. (Eg: I2C, SPI)" alt="" coords="14,140,208,311"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="114,326,114,360,108,360,108,326"/>
+<area shape="rect" id="Node000006" href="$classtojhal_1_1comms__interfaces_1_1CommsInterface.html" title="Communications interface abstract class." alt="" coords="33,5,190,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="114,105,114,140,108,140,108,105"/>
+</map>

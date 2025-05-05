@@ -1,0 +1,5 @@
+<map id="tojhal::devices::IMU&lt; InterfaceT &gt;" name="tojhal::devices::IMU&lt; InterfaceT &gt;">
+<area shape="rect" id="Node000001" title="Abstract Inertial Measurement Unit device." alt="" coords="6,139,180,267"/>
+<area shape="rect" id="Node000002" href="$classtojhal_1_1devices_1_1Device.html" title="Abstract device class. Has utility methods and a communication interface." alt="" coords="5,5,180,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,106,96,139,90,139,90,106"/>
+</map>

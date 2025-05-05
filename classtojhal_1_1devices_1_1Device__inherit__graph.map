@@ -1,0 +1,7 @@
+<map id="tojhal::devices::Device&lt; InterfaceT &gt;" name="tojhal::devices::Device&lt; InterfaceT &gt;">
+<area shape="rect" id="Node000001" title="Abstract device class. Has utility methods and a communication interface." alt="" coords="126,5,302,91"/>
+<area shape="rect" id="Node000002" href="$classtojhal_1_1devices_1_1EnvironmentalSensor.html" title="Environmental sensor. Measures temperature, humidity and pressure." alt="" coords="5,139,209,267"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,104,153,141,149,137,174,101"/>
+<area shape="rect" id="Node000003" href="$classtojhal_1_1devices_1_1IMU.html" title="Abstract Inertial Measurement Unit device." alt="" coords="234,139,408,267"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,101,279,137,275,141,249,104"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="tojhal::devices::ICM20602" name="tojhal::devices::ICM20602">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,981,188,1115"/>
+<area shape="rect" id="Node000002" href="$classtojhal_1_1devices_1_1IMU.html" title=" " alt="" coords="15,788,189,932"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,947,105,982,100,982,100,947"/>
+<area shape="rect" id="Node000003" href="$classtojhal_1_1devices_1_1Device.html" title=" " alt="" coords="18,637,187,739"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,753,105,788,100,788,100,753"/>
+<area shape="rect" id="Node000004" href="$classtojhal_1_1comms__interfaces_1_1I2C.html" title="I2C communication interface." alt="" coords="10,360,195,573"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,573,105,620,100,620,100,573"/>
+<area shape="rect" id="Node000005" href="$classtojhal_1_1comms__interfaces_1_1RegisterInterface.html" title="Communication interface over registers. (Eg: I2C, SPI)" alt="" coords="5,140,199,311"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="105,326,105,360,100,360,100,326"/>
+<area shape="rect" id="Node000006" href="$classtojhal_1_1comms__interfaces_1_1CommsInterface.html" title="Communications interface abstract class." alt="" coords="24,5,181,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="105,105,105,140,100,140,100,105"/>
+</map>

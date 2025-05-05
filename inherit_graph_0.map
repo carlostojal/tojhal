@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classtojhal_1_1comms__interfaces_1_1CommsInterface.html" title="Communications interface abstract class." alt="" coords="5,39,173,81"/>
+<area shape="rect" id="Node000001" href="$classtojhal_1_1comms__interfaces_1_1PubSubInterface.html" title="Abstract pub/sub communication interface." alt="" coords="221,5,388,48"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="188,42,220,37,220,42,189,47"/>
+<area shape="rect" id="Node000003" href="$classtojhal_1_1comms__interfaces_1_1RegisterInterface.html" title="Communication interface over registers. (Eg: I2C, SPI)" alt="" coords="221,72,388,115"/>
+<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="189,73,220,78,220,83,188,78"/>
+<area shape="rect" id="Node000002" href="$classtojhal_1_1comms__interfaces_1_1ZeroMQ.html" title=" " alt="" coords="450,5,618,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="404,24,450,24,450,29,404,29"/>
+<area shape="rect" id="Node000004" href="$classtojhal_1_1comms__interfaces_1_1I2C.html" title="I2C communication interface." alt="" coords="436,80,632,107"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="404,91,436,91,436,96,404,96"/>
+</map>

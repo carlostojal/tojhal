@@ -1,0 +1,5 @@
+<map id="tojhal::devices::EnvironmentalSensor&lt; InterfaceT &gt;" name="tojhal::devices::EnvironmentalSensor&lt; InterfaceT &gt;">
+<area shape="rect" id="Node000001" title="Environmental sensor. Measures temperature, humidity and pressure." alt="" coords="5,139,209,267"/>
+<area shape="rect" id="Node000002" href="$classtojhal_1_1devices_1_1Device.html" title="Abstract device class. Has utility methods and a communication interface." alt="" coords="20,5,195,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,106,110,139,105,139,105,106"/>
+</map>

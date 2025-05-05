@@ -1,0 +1,15 @@
+<map id="include/tojhal/comms_interfaces/I2C.hpp" name="include/tojhal/comms_interfaces/I2C.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="292,5,436,48"/>
+<area shape="rect" id="Node000002" href="$BME280_8hpp.html" title=" " alt="" coords="28,96,174,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,56,163,98,162,93,287,51"/>
+<area shape="rect" id="Node000004" href="$ICM20602_8hpp.html" title=" " alt="" coords="205,96,352,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="335,61,300,98,296,94,331,58"/>
+<area shape="rect" id="Node000006" href="$I2C_8cpp.html" title=" " alt="" coords="375,96,526,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="396,57,432,94,428,98,392,61"/>
+<area shape="rect" id="Node000007" href="$Device_8cpp.html" title=" " alt="" coords="550,104,708,131"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="441,51,592,101,590,106,439,56"/>
+<area shape="rect" id="Node000003" href="$BME280_8cpp.html" title=" " alt="" coords="5,187,173,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,155,94,187,88,186,93,154"/>
+<area shape="rect" id="Node000005" href="$ICM20602_8cpp.html" title=" " alt="" coords="196,187,374,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="284,154,287,186,281,186,279,155"/>
+</map>

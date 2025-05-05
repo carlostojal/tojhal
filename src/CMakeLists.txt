@@ -1,3 +1,0 @@
-
-add_subdirectory(comms_interfaces)
-add_subdirectory(devices)

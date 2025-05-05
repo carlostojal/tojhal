@@ -1,0 +1,7 @@
+<map id="include/tojhal/comms_interfaces/RegisterInterface.hpp" name="include/tojhal/comms_interfaces/RegisterInterface.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,220,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="14,104,75,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,50,65,93,61,90,95,47"/>
+<area shape="rect" id="Node000003" href="$CommsInterface_8hpp.html" title=" " alt="" coords="99,96,262,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,47,158,82,153,85,126,50"/>
+</map>
