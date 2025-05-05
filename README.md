@@ -1,6 +1,6 @@
-# HAL
+# TojHAL
 
-Hardware Abstraction Layer for Linux systems.
+Hardware Abstraction Layer for Linux systems, written in C++.
 
 # Requirements
 
